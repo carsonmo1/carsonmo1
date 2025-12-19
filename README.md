@@ -4,7 +4,7 @@ I'm a data science student with a focus on sports analytics, machine learning, a
 
 ## Featured Projects
 
-### [NFL QB Decision-Making Analysis](https://github.com/carsonmo1/Big_Data_Bowl_2026) — Big Data Bowl 2026
+### [NFL QB Decision-Making Analysis](https://github.com/carsonmo1/Big_Data_Bowl_2026) — Big Data Bowl 2025
 Machine learning pipeline combining route classification and catch probability prediction to evaluate quarterback target selection. Includes interactive coaching tool built with Dash.
 
 `Python` `scikit-learn` `XGBoost` `Dash` `Plotly`

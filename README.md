@@ -5,7 +5,7 @@ Data science student with a focus on sports analytics, machine learning, and int
 
 ## Featured Projects
 
-### [NFL QB Decision-Making Analysis]([link](https://github.com/carsonmo1/Big_Data_Bowl_2026)) — Big Data Bowl 2026
+### [NFL QB Decision-Making Analysis](https://github.com/carsonmo1/Big_Data_Bowl_2026) — Big Data Bowl 2026
 Machine learning pipeline combining route classification (77% accuracy) and catch probability prediction (82% accuracy) to evaluate quarterback target selection. Analysis reveals QBs only target the optimal receiver ~25% of the time. Includes interactive coaching tool built with Dash.
 
 `Python` `scikit-learn` `XGBoost` `Dash` `Plotly`

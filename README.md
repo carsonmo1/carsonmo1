@@ -58,4 +58,4 @@ Text analysis of exercise equipment reviews extracting sentiment patterns and th
 
 ## Contact
 
-[LinkedIn](link) • [Email](mailto:your@email.com)
+[LinkedIn](www.linkedin.com/in/carson-mohler-6z) • [Email](carsonmohler@gmail.com)

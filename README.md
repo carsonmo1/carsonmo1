@@ -12,35 +12,35 @@ Machine learning pipeline combining route classification (77% accuracy) and catc
 
 ---
 
-### [NBA 3-Point Revolution Dashboard](link)
-Interactive application tracking the evolution of 3-point shooting from 1996-2025. Features custom efficiency metrics (PEC), cross-filtering across multiple visualizations, and data sourced from NBA.com API and Basketball Reference.
+### [NBA 3-Point Trends Dashboard](https://github.com/carsonmo1/NBA_Trends_Dash)
+Interactive application tracking the evolution of 3-point shooting and other trends from 1996-2025. Features custom efficiency metrics (PEC), cross-filtering across multiple visualizations, and data sourced from NBA.com API and Basketball Reference.
 
 `Python` `Dash` `Plotly` `REST APIs` `Web Scraping`
 
 ---
 
-### [NCAA Transfer Portal Analysis](link)
+### [NCAA Transfer Portal Analysis](https://github.com/carsonmo1/Tranfer_valuation_tableau_tool)
 End-to-end pipeline from web scraping to Tableau dashboard, built to identify transfer targets for a college basketball program. Includes feature engineering for player evaluation and actionable recommendations delivered to coaching staff.
 
 `Python` `Tableau` `Web Scraping` `ETL`
 
 ---
 
-### [Health Risk Prediction Model](link)
-Classification models on BRFSS survey data predicting health outcomes. Emphasis on handling severe class imbalance and optimizing recall for medical screening applications where false negatives carry higher cost.
+### [Health Risk Prediction Model](https://github.com/carsonmo1/BRFSS_diabetes_prediction_w_cloud_tools)
+Classification models on BRFSS survey data predicting health outcomes. Emphasis on handling severe class imbalance and optimizing recall for medical screening applications where false negatives carry higher cost. Deployed using AWS cloud tools.
 
 `Python` `XGBoost` `CatBoost` `imbalanced-learn`
 
 ---
 
-### [NFL Player Safety & Rule Changes](link) *(in progress)*
+### [NFL Player Safety & Rule Changes](https://github.com/carsonmo1/SQL_NFL_injuries) *(in progress)*
 SQL-driven analysis testing whether safety-focused rule changes (roughing the passer, targeting) actually reduced player injuries or created unintended behavioral incentives. Combines penalty data, injury reports, and statistical inference.
 
 `SQL` `Python` `Statistical Inference` `nflverse`
 
 ---
 
-### [NLP: Product Review Analysis](link)
+### [NLP: Product Review Analysis](https://github.com/carsonmo1/SII_NLP_sentiment_project)
 Text analysis of exercise equipment reviews extracting sentiment patterns and themes from unstructured customer feedback.
 
 `Python` `NLP` `Text Mining`

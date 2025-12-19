@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**carsonmo1/carsonmo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Carson
 
 Data science student with a focus on sports analytics, machine learning, and interactive visualization. I build projects that answer real questions with data—not just demonstrate techniques.
